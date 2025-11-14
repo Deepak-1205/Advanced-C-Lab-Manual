@@ -10,6 +10,7 @@ Algorithm:
  
 Program:
 
+```
 struct Node{
  char data;
  struct Node *next;
@@ -35,6 +36,7 @@ void search(char data)
  printf("Item not found");
  }
 }
+```
 Output:
 
 ![image](https://github.com/user-attachments/assets/5e9dae8b-12e9-4eb7-9862-665e399754e1)
